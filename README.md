@@ -1,36 +1,35 @@
-# 📊 Curso de Análisis de Datos desde Cero
+# Data Analyst Roadmap 🚀
 
-Este repositorio contiene todo el material, ejercicios y proyectos que realizo durante mi formación intensiva para convertirme en **Analista de Datos**.
+Este repositorio documenta mi transformación completa desde cero hasta convertirme en Data Analyst profesional.
 
-## 🎯 Objetivo
+## 💡 Sobre mí
+Mi objetivo es entrar en el mundo del análisis de datos sin experiencia previa en programación o estadística. Este repositorio muestra mi evolución diaria, con teoría, ejercicios, proyectos pequeños y un proyecto final profesional.
 
-Aprender, practicar y documentar habilidades clave en Data Analysis para conseguir empleo en el sector una vez finalizado el curso. El proceso incluye:
+## 📚 Estructura del repositorio
 
-- Programación en Python
-- Manipulación y limpieza de datos
-- Visualización de datos
-- SQL para análisis de datos
-- Estadística aplicada
-- Introducción al Machine Learning
-- Creación de proyectos prácticos y porfolio
+- `/semanas/`: contenido organizado por semanas
+  - `/semana-01/`: fundamentos de Python
+  - `/semana-02/`: lógica de programación + control de flujo
+  - `/semana-03/`: estructuras de datos + funciones
+  - `/semana-04/`: manejo de archivos + errores
+  - `/semana-05/`: introducción a estadística
+  - `/semana-06/`: pandas + numpy + limpieza
+  - `/semana-07/`: visualización de datos
+  - `/semana-08/`: SQL + integración con Python
+  - `/semana-09 a 12/`: proyectos pequeños
+  - `/semana-13 a 16/`: proyecto grande
 
-## 🗂️ Estructura del repositorio
+## 🛠 Herramientas
 
-Cada carpeta corresponde a un día de estudio e incluye:
+- Python (v3.11+)
+- Jupyter Notebooks
+- pandas, numpy, matplotlib, seaborn, plotly
+- SQL (PostgreSQL / SQLite)
+- Git + GitHub
 
-- 📓 Un notebook Jupyter con ejemplos, teoría y ejercicios resueltos
-- 📄 Un `README.md` diario que describe lo aprendido
-- Datos de ejemplo o recursos utilizados
+## 🧪 Proyecto Final
 
-## 🧩 Contenido del curso
+Un análisis completo desde la adquisición de datos hasta la visualización interactiva. Incluye storytelling, Jupyter Notebooks y visualizaciones dinámicas.
 
-A lo largo de este repositorio cubriré:
-
-1. **Fundamentos de Python**
-2. **Numpy y Pandas**
-3. **Limpieza y preparación de datos**
-4. **Visualización de datos con Matplotlib y Seaborn**
-5. **Estadística descriptiva**
-6. **SQL para análisis de datos**
-7. **Machine Learning básico con Scikit-learn**
-8. **Proyectos finales y dashboard**
+## 📌 Nota
+Este repositorio se actualiza diariamente.
